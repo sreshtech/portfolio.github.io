@@ -32,10 +32,9 @@ This is a portfolio website showcasing the skills, projects, and experience of S
 
 Explore the various sections of the portfolio to learn more about Sreshta and their work. Click on project links to view detailed information and visit live demos where available. Feel free to use the contact form or other contact methods to get in touch.
 
-## Contributing
+## Visit
 
-If you'd like to contribute to this project, you can fork the repository, make your changes, and submit a pull request. Suggestions for improving the portfolio are always welcome!
-
+https://sreshtech.github.io/portfolio.github.io/
 
 ## Acknowledgements
 
